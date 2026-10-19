@@ -68,4 +68,4 @@ executive-governance-analytics-platform/
 ├── pbi_db_risk_watchlist.png                             <-- Dynamic operational risk ranking matrix
 └── Action_Log_Raw.csv                                    <-- Source workbook dataset
 ```
-](https://coursera.org/share/9d99385211145e08c02d596cf9713fd5)
+
