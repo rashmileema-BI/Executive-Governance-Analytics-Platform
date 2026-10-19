@@ -1,4 +1,4 @@
-# 🚀 Executive Strategic Initiatives & Operational Risk Analytics Platform
+[# 🚀 Executive Strategic Initiatives & Operational Risk Analytics Platform
 
 ## 📋 Project Overview
 This repository contains a comprehensive, end-to-end business analysis and technical implementation package designed to automate cross-functional action tracking, dependency governance, and multi-tier Service Level Agreement (SLA) escalations.
@@ -68,3 +68,4 @@ executive-governance-analytics-platform/
 ├── pbi_db_risk_watchlist.png                             <-- Dynamic operational risk ranking matrix
 └── Action_Log_Raw.csv                                    <-- Source workbook dataset
 ```
+](https://coursera.org/share/9d99385211145e08c02d596cf9713fd5)
