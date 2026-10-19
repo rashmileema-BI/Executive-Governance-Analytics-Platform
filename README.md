@@ -30,11 +30,11 @@ The backend relational database is structured to support transactional action lo
 The Power BI reporting suite (`Enterprise%20PMO%20Analytics%20Platform.pbix`) provides C-suite executives and PMO leads with real-time operational visibility across three core views:
 
 1. **Executive Overview**  
-   Tracks overall portfolio health, slip rates, root causes, and initiative status by sponsor. **[View Screenshot](pbi_db_executive_overview.png)**
+   Tracks overall portfolio health, slip rates, root causes, and initiative status by sponsor. **![Executive Overview Dashboard View](pbi_db-executive_overview.png)**
 2. **Approver Function Analysis**  
-   Identifies decision bottlenecks, actual vs. SLA turnaround times, and live backlogs by department. **[View Screenshot](pbi_db_approver_function_analysis.png)**
+   Identifies decision bottlenecks, actual vs. SLA turnaround times, and live backlogs by department. **![Approver Function Bottleneck Tracking View](pbi_db-approver_function_analysis.png)**
 3. **Risk Watchlist**  
-   Ranks open actions dynamically by composite risk score and overdue duration. **[View Screenshot](pbi_db_risk_watchlist.png)**
+   Ranks open actions dynamically by composite risk score and overdue duration. **![Dynamic Operational Risk Watchlist View](pbi_db-risk_watchlist.png)**
 
 ### 🎥 Power BI Dashboard Walkthrough
 Watch a quick 1-minute demonstration of the interactive dashboard filters, risk scoring logic, and exception-tracking views using the native player below:
